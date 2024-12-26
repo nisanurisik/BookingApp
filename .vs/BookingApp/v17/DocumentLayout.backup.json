@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Desktop\\Projeler\\BookingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05505661-883C-4762-9FF7-81A6827C0E89}|BookingApp.Data\\BookingApp.Data.csproj|c:\\users\\dell\\desktop\\projeler\\bookingapp\\bookingapp.data\\enums\\accomodationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05505661-883C-4762-9FF7-81A6827C0E89}|BookingApp.Data\\BookingApp.Data.csproj|solutionrelative:bookingapp.data\\enums\\accomodationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05505661-883C-4762-9FF7-81A6827C0E89}|BookingApp.Data\\BookingApp.Data.csproj|c:\\users\\dell\\desktop\\projeler\\bookingapp\\bookingapp.data\\entities\\hotelentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05505661-883C-4762-9FF7-81A6827C0E89}|BookingApp.Data\\BookingApp.Data.csproj|solutionrelative:bookingapp.data\\entities\\hotelentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05505661-883C-4762-9FF7-81A6827C0E89}|BookingApp.Data\\BookingApp.Data.csproj|c:\\users\\dell\\desktop\\projeler\\bookingapp\\bookingapp.data\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05505661-883C-4762-9FF7-81A6827C0E89}|BookingApp.Data\\BookingApp.Data.csproj|solutionrelative:bookingapp.data\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05505661-883C-4762-9FF7-81A6827C0E89}|BookingApp.Data\\BookingApp.Data.csproj|c:\\users\\dell\\desktop\\projeler\\bookingapp\\bookingapp.data\\enums\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05505661-883C-4762-9FF7-81A6827C0E89}|BookingApp.Data\\BookingApp.Data.csproj|solutionrelative:bookingapp.data\\enums\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccomodationType.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projeler\\BookingApp\\BookingApp.Data\\Enums\\AccomodationType.cs",
+              "RelativeDocumentMoniker": "BookingApp.Data\\Enums\\AccomodationType.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Projeler\\BookingApp\\BookingApp.Data\\Enums\\AccomodationType.cs",
+              "RelativeToolTip": "BookingApp.Data\\Enums\\AccomodationType.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:38:11.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HotelEntity.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projeler\\BookingApp\\BookingApp.Data\\Entities\\HotelEntity.cs",
+              "RelativeDocumentMoniker": "BookingApp.Data\\Entities\\HotelEntity.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Projeler\\BookingApp\\BookingApp.Data\\Entities\\HotelEntity.cs",
+              "RelativeToolTip": "BookingApp.Data\\Entities\\HotelEntity.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:36:58.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projeler\\BookingApp\\BookingApp.Data\\Enums\\UserType.cs",
+              "RelativeDocumentMoniker": "BookingApp.Data\\Enums\\UserType.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Projeler\\BookingApp\\BookingApp.Data\\Enums\\UserType.cs",
+              "RelativeToolTip": "BookingApp.Data\\Enums\\UserType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:35:30.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projeler\\BookingApp\\BookingApp.Data\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "BookingApp.Data\\Entities\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Projeler\\BookingApp\\BookingApp.Data\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "BookingApp.Data\\Entities\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:15:10.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

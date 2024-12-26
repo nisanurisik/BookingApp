@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Desktop\\Projeler\\BookingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05505661-883C-4762-9FF7-81A6827C0E89}|BookingApp.Data\\BookingApp.Data.csproj|c:\\users\\dell\\desktop\\projeler\\bookingapp\\bookingapp.data\\entities\\featureentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05505661-883C-4762-9FF7-81A6827C0E89}|BookingApp.Data\\BookingApp.Data.csproj|solutionrelative:bookingapp.data\\entities\\featureentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05505661-883C-4762-9FF7-81A6827C0E89}|BookingApp.Data\\BookingApp.Data.csproj|c:\\users\\dell\\desktop\\projeler\\bookingapp\\bookingapp.data\\entities\\baseentitiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05505661-883C-4762-9FF7-81A6827C0E89}|BookingApp.Data\\BookingApp.Data.csproj|solutionrelative:bookingapp.data\\entities\\baseentitiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05505661-883C-4762-9FF7-81A6827C0E89}|BookingApp.Data\\BookingApp.Data.csproj|c:\\users\\dell\\desktop\\projeler\\bookingapp\\bookingapp.data\\context\\bookingappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05505661-883C-4762-9FF7-81A6827C0E89}|BookingApp.Data\\BookingApp.Data.csproj|solutionrelative:bookingapp.data\\context\\bookingappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8543A7A5-601C-456A-8B8E-47C20651B6DD}|BookingApp.WebApi\\BookingApp.WebApi.csproj|c:\\users\\dell\\desktop\\projeler\\bookingapp\\bookingapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8543A7A5-601C-456A-8B8E-47C20651B6DD}|BookingApp.WebApi\\BookingApp.WebApi.csproj|solutionrelative:bookingapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8543A7A5-601C-456A-8B8E-47C20651B6DD}|BookingApp.WebApi\\BookingApp.WebApi.csproj|c:\\users\\dell\\desktop\\projeler\\bookingapp\\bookingapp.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8543A7A5-601C-456A-8B8E-47C20651B6DD}|BookingApp.WebApi\\BookingApp.WebApi.csproj|solutionrelative:bookingapp.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FeatureEntity.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projeler\\BookingApp\\BookingApp.Data\\Entities\\FeatureEntity.cs",
+              "RelativeDocumentMoniker": "BookingApp.Data\\Entities\\FeatureEntity.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Projeler\\BookingApp\\BookingApp.Data\\Entities\\FeatureEntity.cs",
+              "RelativeToolTip": "BookingApp.Data\\Entities\\FeatureEntity.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:40:02.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseEntitiy.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projeler\\BookingApp\\BookingApp.Data\\Entities\\BaseEntitiy.cs",
+              "RelativeDocumentMoniker": "BookingApp.Data\\Entities\\BaseEntitiy.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Projeler\\BookingApp\\BookingApp.Data\\Entities\\BaseEntitiy.cs",
+              "RelativeToolTip": "BookingApp.Data\\Entities\\BaseEntitiy.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwBoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:35:58.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projeler\\BookingApp\\BookingApp.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "BookingApp.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Projeler\\BookingApp\\BookingApp.WebApi\\Program.cs",
+              "RelativeToolTip": "BookingApp.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:32:27.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projeler\\BookingApp\\BookingApp.WebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BookingApp.WebApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Projeler\\BookingApp\\BookingApp.WebApi\\appsettings.Development.json",
+              "RelativeToolTip": "BookingApp.WebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T06:20:12.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projeler\\BookingApp\\BookingApp.Data\\Context\\BookingAppDbContext.cs",
+              "RelativeDocumentMoniker": "BookingApp.Data\\Context\\BookingAppDbContext.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Projeler\\BookingApp\\BookingApp.Data\\Context\\BookingAppDbContext.cs",
+              "RelativeToolTip": "BookingApp.Data\\Context\\BookingAppDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wBEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:14:30.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
